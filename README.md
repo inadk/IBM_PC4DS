@@ -1,2 +1,2 @@
 # IBM_PC4DS
-Practice codes for IBM Professional Certificate for Data Science
+Practice codes made during the completition of IBM Professional Certificate for Data Science
